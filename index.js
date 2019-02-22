@@ -1,1 +1,2 @@
-console.log("Hello world!");
+const API_KEY = "696261432:AAGOdX8FLH06XnQAr1DvAgddKeoDsiK6UQQ";
+
